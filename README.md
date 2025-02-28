@@ -6,7 +6,7 @@ Difficulties choosing between large mesh with submeshes or indivdual meshes for 
 
 Abandoned this project so far as was mesh generation system did not work with dynamic mesh texture merging. Related game idea's are preserved just code progress thus far on this project scrapped
 
-Included functions so far 
--dynamic mesh tile terrain system with interface to change y value 
--dynamic mesh tile texture system: in progress difficulties with including large number of meshes that can all pull from a large pool of textures. In progress texture blending between tiles
--in progress cliff system
+Included functions so far <br>
+-dynamic mesh tile terrain system with interface to change y value <br>
+-dynamic mesh tile texture system: in progress difficulties with including large number of meshes that can all pull from a large pool of textures. In progress texture blending between tiles<br>
+-in progress cliff system<br>
