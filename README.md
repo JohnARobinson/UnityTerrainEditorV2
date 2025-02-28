@@ -10,3 +10,6 @@ Included functions so far <br>
 -dynamic mesh tile terrain system with interface to change y value <br>
 -dynamic mesh tile texture system: in progress difficulties with including large number of meshes that can all pull from a large pool of textures. In progress texture blending between tiles<br>
 -in progress cliff system<br>
+
+Initial Mesh<br>
+![image info](V2Example1.png)
